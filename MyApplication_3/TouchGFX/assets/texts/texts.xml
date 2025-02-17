@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.24.1">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1" />
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_RMQF" Alignment="Center" TypographyId="Typography_00">
+        <Translation Language="GB">Play Again</Translation>
+      </Text>
+      <Text Id="__SingleUse_G20Y" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">s2</Translation>
+      </Text>
+      <Text Id="__SingleUse_TFMX" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_0D8F" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">s3</Translation>
+      </Text>
+      <Text Id="__SingleUse_57FC" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_5Y0H" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">s4</Translation>
+      </Text>
+      <Text Id="__SingleUse_FKQL" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_34AR" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">s5</Translation>
+      </Text>
+      <Text Id="__SingleUse_N5O1" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_8NQ3" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">s6</Translation>
+      </Text>
+      <Text Id="__SingleUse_KDOF" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_IYBH" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">s1</Translation>
+      </Text>
+      <Text Id="__SingleUse_7TNV" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_LU9V" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">6.</Translation>
+      </Text>
+      <Text Id="__SingleUse_2HH9" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">2.</Translation>
+      </Text>
+      <Text Id="__SingleUse_QHN0" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">3.</Translation>
+      </Text>
+      <Text Id="__SingleUse_6M6F" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">4.</Translation>
+      </Text>
+      <Text Id="__SingleUse_S6DB" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">5.</Translation>
+      </Text>
+      <Text Id="__SingleUse_MAON" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">1.</Translation>
+      </Text>
+      <Text Id="__SingleUse_HPOO" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">Top scores:</Translation>
+      </Text>
+      <Text Id="__SingleUse_8EC0" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">View Rank</Translation>
+      </Text>
+      <Text Id="__SingleUse_J56E" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Score:</Translation>
+      </Text>
+      <Text Id="__SingleUse_L2UL" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">GAME OVER!</Translation>
+      </Text>
+      <Text Id="__SingleUse_DNA8" Alignment="Left" TypographyId="score">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_LOB3" Alignment="Center" TypographyId="score">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_HTSJ" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">00</Translation>
+      </Text>
+      <Text Id="__SingleUse_7E31" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_UF1N" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">a4</Translation>
+      </Text>
+      <Text Id="__SingleUse_ACB3" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_TU05" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">a3</Translation>
+      </Text>
+      <Text Id="__SingleUse_4R9O" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_S3S2" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">a2</Translation>
+      </Text>
+      <Text Id="__SingleUse_CNFQ" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_3AT8" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">a1</Translation>
+      </Text>
+      <Text Id="__SingleUse_ETMU" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_613T" Alignment="Left" TypographyId="counter">
+        <Translation Language="GB">15</Translation>
+      </Text>
+      <Text Id="__SingleUse_T1YY" Alignment="Left" TypographyId="counter">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_TYW3" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">question</Translation>
+      </Text>
+      <Text Id="__SingleUse_Z4T7" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_WJVN" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">submit</Translation>
+      </Text>
+      <Text Id="__SingleUse_ZRG4" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">a3</Translation>
+      </Text>
+      <Text Id="__SingleUse_NAHM" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_PXJM" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">submit</Translation>
+      </Text>
+      <Text Id="__SingleUse_9515" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">submit</Translation>
+      </Text>
+      <Text Id="__SingleUse_KT9F" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">submit</Translation>
+      </Text>
+      <Text Id="__SingleUse_HFNL" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">00</Translation>
+      </Text>
+      <Text Id="__SingleUse_PX5V" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_V1ST" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">00</Translation>
+      </Text>
+      <Text Id="__SingleUse_L2AS" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_8KCQ" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">00</Translation>
+      </Text>
+      <Text Id="points" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">points</Translation>
+      </Text>
+      <Text Id="__SingleUse_9MPK" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_7VSZ" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Pick a category</Translation>
+      </Text>
+      <Text Id="__SingleUse_6IF8" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Embedded sys</Translation>
+      </Text>
+      <Text Id="__SingleUse_ZB27" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Databases</Translation>
+      </Text>
+      <Text Id="__SingleUse_E7X1" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">AI</Translation>
+      </Text>
+      <Text Id="__SingleUse_LE6W" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Algorithms</Translation>
+      </Text>
+      <Text Id="__SingleUse_7ETS" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">a4</Translation>
+      </Text>
+      <Text Id="__SingleUse_RG9A" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_DIYT" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">a3</Translation>
+      </Text>
+      <Text Id="__SingleUse_3L6F" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_S95C" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">a2</Translation>
+      </Text>
+      <Text Id="__SingleUse_PMV0" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_FRNJ" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">a1</Translation>
+      </Text>
+      <Text Id="__SingleUse_P899" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_EDED" Alignment="Left" TypographyId="counter">
+        <Translation Language="GB">15</Translation>
+      </Text>
+      <Text Id="__SingleUse_68HO" Alignment="Left" TypographyId="counter">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_GZEX" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">question</Translation>
+      </Text>
+      <Text Id="__SingleUse_TMYM" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_VTST" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">a4</Translation>
+      </Text>
+      <Text Id="__SingleUse_XOUQ" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_TNET" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">a2</Translation>
+      </Text>
+      <Text Id="__SingleUse_ALBN" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_VDJM" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">a1</Translation>
+      </Text>
+      <Text Id="__SingleUse_3BJN" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_N5BF" Alignment="Left" TypographyId="counter">
+        <Translation Language="GB">15</Translation>
+      </Text>
+      <Text Id="__SingleUse_XM0V" Alignment="Left" TypographyId="counter">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_CD0T" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">question</Translation>
+      </Text>
+      <Text Id="__SingleUse_AY5F" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_A9Q7" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">a4</Translation>
+      </Text>
+      <Text Id="__SingleUse_99JI" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">a2</Translation>
+      </Text>
+      <Text Id="__SingleUse_F35U" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">a3</Translation>
+      </Text>
+      <Text Id="__SingleUse_6Z0G" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">a1</Translation>
+      </Text>
+      <Text Id="__SingleUse_IAS2" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_ZZQM" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_3S4H" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_A0QT" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_PW8L" Alignment="Left" TypographyId="counter">
+        <Translation Language="GB">15</Translation>
+      </Text>
+      <Text Id="__SingleUse_UQ5Q" Alignment="Left" TypographyId="counter">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_UH0N" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">question</Translation>
+      </Text>
+      <Text Id="__SingleUse_ULDZ" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_SB4X" Alignment="Center" TypographyId="Typography_00">
+        <Translation Language="GB">Start</Translation>
+      </Text>
+      <Text Id="__SingleUse_W5MH" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">Group 1 Quiz!</Translation>
+      </Text>
+      <Text Id="__SingleUse_QIDC" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">the</Translation>
+      </Text>
+      <Text Id="__SingleUse_L0N1" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Welcome to</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="verdana.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0-9,a-z,A-Z,0x20-0xFE" />
+    <Typography Id="Large" Font="verdana.ttf" Size="40" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Typography_00" Font="verdana.ttf" Size="31" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="counter" Font="verdanab.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0-9" />
+    <Typography Id="score" Font="verdanab.ttf" Size="40" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0-9,a-z,A-Z" />
+  </Typographies>
+</TextDatabase>

@@ -34,8 +34,8 @@ To run or modify this project, ensure you have the following installed:
 4. Compile and flash the application onto the STM32H750B-DK board.
 
 ### **Contributors**
-Graciela Stoimenova
-Ivana Stojanovska
+- **Graciela Stoimenova**
+- **Ivana Stojanovska**
 
 ### **License**
 This project is for educational purposes as part of the university course Software for Embedded Systems.
